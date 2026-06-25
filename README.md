@@ -109,7 +109,8 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 ## 👤 Author
 
 **Team**
- [Kartik](https://github.com/kartikbhai23) [Nishu](https://github.com/nishu-tiwari82)
+
+[Kartik](https://github.com/kartikbhai23) [Nishu](https://github.com/nishu-tiwari82)
  
 
 ## 🙏 Acknowledgments
