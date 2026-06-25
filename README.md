@@ -14,9 +14,9 @@
 
 ## 📋 Overview
 
-![LegalShield ](\images\image.png)
-![Workinng ](\images\image1.png)
-![Output](\images\image2.png)
+![LegalShield ](D:\Project\Legal Document Summarizer\images\image.png)
+![Workinng ](.\images\image1.png)
+![Output](.\images\image2.png)
 
 LegalShield-AI is an intelligent platform that automates the creation, analysis, and management of legal documents for SaaS companies and startups. Leveraging advanced AI technology, it streamlines the process of generating legally compliant documents while reducing costs and time spent on manual legal work.
 
