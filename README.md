@@ -3,8 +3,8 @@
 <div align="center">
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![GitHub Stars](https://img.shields.io/github/stars/kartikbhai23/LegalShield-AI?style=social)](images/image.png)
-[![GitHub Forks](https://img.shields.io/github/forks/kartikbhai23/LegalShield-AI?style=social)](images/image1.png)
+[![GitHub Stars](https://img.shields.io/github/stars/kartikbhai23/LegalShield-AI?style=social)](https://github.com/kartikbhai23/LegalShield-AI)
+[![GitHub Forks](https://img.shields.io/github/forks/kartikbhai23/LegalShield-AI?style=social)](https://github.com/kartikbhai23/LegalShield-AI)
 
 **AI-Powered Legal Document Generation & Analysis for SaaS Creators**
 
@@ -13,6 +13,10 @@
 </div>
 
 ## 📋 Overview
+
+![LegalShield ](\images\image.png)
+![Workinng ](\images\image1.png)
+![Output](\images\image2.png)
 
 LegalShield-AI is an intelligent platform that automates the creation, analysis, and management of legal documents for SaaS companies and startups. Leveraging advanced AI technology, it streamlines the process of generating legally compliant documents while reducing costs and time spent on manual legal work.
 
@@ -104,9 +108,9 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 👤 Author
 
-**Kartik Bhai**
+**Team**
 - GitHub: [@kartik](https://github.com/kartikbhai23)
-GitHub: [@Nishu](https://github.com/nishu-tiwari82)
+- GitHub: [@Nishu](https://github.com/nishu-tiwari82)
  
 
 ## 🙏 Acknowledgments
@@ -117,7 +121,7 @@ GitHub: [@Nishu](https://github.com/nishu-tiwari82)
 
 ## 📞 Support & Community
 
-- 📧 **Email**: [kartikpandey.offical@gmail.com]
+- 📧 **Email**: [Gmail](kartikpandey.offical@gmail.co)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/kartikbhai23/LegalShield-AI/discussions)
 - 🐛 **Bug Reports**: [GitHub Issues](https://github.com/kartikbhai23/LegalShield-AI/issues)
 - 🌐 **Website**: [[your-website.com](https://kartikbhai23.github.io/Kartik-Pandey/)]
